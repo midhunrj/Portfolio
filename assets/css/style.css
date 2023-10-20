@@ -215,7 +215,7 @@ a:hover {
   height: 40px;
   width: 40px;
   font-size: 1.2rem;
-  border-radius: 10px;
+  border-radius: 25px;
   line-height: 1.6;
   margin: 0 15px 0 0;
   box-shadow: 0 0 0 3px crimson;
@@ -225,7 +225,7 @@ a:hover {
 .socials .ico-circle:hover {
   background-color: #0078ff;
   color: #fff;
-  box-shadow: 0 0 0 3px black;
+  box-shadow: 0 0 0 3px pink;
   transition: all 500ms ease;
 }
 
